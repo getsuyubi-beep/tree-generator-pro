@@ -37,7 +37,7 @@ If you want to run the script manually:
 
 Bash
 # Clone the repository
-git clone https://github.com//tree-generator-pro.git
+git clone https://github.com/getsuyubi-beep/tree-generator-pro
 
 # Install dependencies
 pip install PyQt5
