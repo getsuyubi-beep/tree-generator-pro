@@ -26,7 +26,7 @@ Set Destination: Choose where to save the result and give it a name.
 Run: Click "Generate Architecture" and you're done!
 
 #Built With
-Python 3.x
+Python 3.14
 
 PyQt5 (GUI Framework)
 
